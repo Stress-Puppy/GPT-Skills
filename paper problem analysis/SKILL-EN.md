@@ -1,11 +1,11 @@
 ---
-name: paper-analysis
+name: paper-problem-analysis
 description: Analyze an academic paper supplied as a PDF, paper webpage, DOI, or arXiv link. Explain the research problem, Input, and Output concretely, then briefly describe the solution approach. Use for requests to analyze a paper or explain its problem and inputs/outputs, not for ordinary PDFs or requests only to download or convert files.
 ---
 
-# Paper Problem, Input, and Output Analysis
+# Paper Problem Analysis
 
-This is the default English skill document. A [Chinese companion](SKILL.zh-CN.md) is available for reference; loading both versions is unnecessary.
+This is the default English skill document. A [Chinese companion](SKILL-CN.md) is available for reference; loading both versions is unnecessary.
 
 Explain in Chinese by default exactly what task the paper addresses, then briefly explain how the authors solve it. Retain necessary English terminology and the paper's notation, explaining each on first use. The user's explicit language, scope, and level-of-detail preferences take precedence.
 
