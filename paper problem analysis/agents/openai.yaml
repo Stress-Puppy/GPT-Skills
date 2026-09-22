@@ -1,0 +1,6 @@
+interface:
+  display_name: "paper problem analysis"
+  short_description: "阅读论文 PDF 或链接，解释研究问题、输入输出和核心解决思路"
+  default_prompt: "请使用 $paper-problem-analysis 分析我提供的论文 PDF 或链接，具体说明研究问题、Input、Output，并简要解释解决思路。"
+policy:
+  allow_implicit_invocation: true
