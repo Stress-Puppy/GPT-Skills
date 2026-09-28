@@ -19,6 +19,8 @@ description: 分析数据库、大数据、图与图论领域的论文 PDF、论
 
 遇到时序图索引、历史 k-core 或历史连通性问题时，按需阅读[代表性论文笔记](references/temporal-graph-indexing-CN.md)（[英文](references/temporal-graph-indexing-EN.md)）。笔记包含所提供的 2021 PVLDB 与 2024 SIGMOD 论文中的术语、最终算法示例和易错点，不能将其当作所有图论文的统一假设。
 
+遇到最大团／k-plex 搜索、半外存 core 分解、span-reachability 标签或全动态图连通性时，按需阅读[图算法参考](references/graph-algorithm-references-CN.md)（[英文](references/graph-algorithm-references-EN.md)）。这五篇论文均由 Lijun Chang 或 Dong Wen 担任第一或第二作者，并按 CCF A/B 类 venue 筛选。借鉴其中的最终方法示例与阅读问题，不能套用其前提；作者与 venue 条件只适用于本组 reference。
+
 ## 阅读与取证
 
 1. 确认论文标题及所读版本。对上传文件读取正文；对网址打开原始页面并取得对应全文。检索同一论文的公开版本可以用于获取正文，但不能把预印本、会议版、期刊扩展版混为同一版本。若链接对应多篇文章或版本差异会影响回答，先澄清目标。

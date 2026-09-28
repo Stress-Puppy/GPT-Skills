@@ -19,6 +19,8 @@ For temporal graphs, establish snapshot and path semantics before explaining the
 
 For temporal graph indexing, historical k-core queries, or historical connectivity, consult [the representative-paper notes](references/temporal-graph-indexing-EN.md) ([Chinese](references/temporal-graph-indexing-CN.md)). They contain source-grounded terminology, final-algorithm examples, and pitfalls from the supplied 2021 PVLDB and 2024 SIGMOD papers; they are not universal assumptions for all graph papers.
 
+For maximum clique/k-plex search, semi-external core decomposition, span-reachability labels, or fully dynamic connectivity, consult [the graph algorithm references](references/graph-algorithm-references-EN.md) ([Chinese](references/graph-algorithm-references-CN.md)). These five papers have Lijun Chang or Dong Wen as first or second author and were selected from CCF A/B venues. Use their final-method examples and reading questions without importing their assumptions into other papers; the author/venue filter applies only to this collection.
+
 ## Reading and evidence
 
 1. Identify the title and the version being read. Read the body of uploaded files; for URLs, open the original page and obtain the corresponding full text. A public version of the same paper may help obtain the text, but do not conflate preprints, conference papers, and journal extensions. Clarify the target if a link identifies several papers or version differences would affect the answer.
