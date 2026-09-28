@@ -19,7 +19,9 @@ description: 分析数据库、大数据、图与图论领域的论文 PDF、论
 
 遇到时序图索引、历史 k-core 或历史连通性问题时，按需阅读[代表性论文笔记](references/temporal-graph-indexing-CN.md)（[英文](references/temporal-graph-indexing-EN.md)）。笔记包含所提供的 2021 PVLDB 与 2024 SIGMOD 论文中的术语、最终算法示例和易错点，不能将其当作所有图论文的统一假设。
 
-遇到最大团／k-plex 搜索、半外存 core 分解、span-reachability 标签或全动态图连通性时，按需阅读[图算法参考](references/graph-algorithm-references-CN.md)（[英文](references/graph-algorithm-references-EN.md)）。这五篇论文均由 Lijun Chang 或 Dong Wen 担任第一或第二作者，并按 CCF A/B 类 venue 筛选。借鉴其中的最终方法示例与阅读问题，不能套用其前提；作者与 venue 条件只适用于本组 reference。
+需要更多示例时，查阅按主题组织的 [Chang/Wen 参考目录](references/chang-wen-catalog-CN.md)（[英文](references/chang-wen-catalog-EN.md)）。目录收录 Lijun Chang 或 Dong Wen 担任第一或第二作者的 CCF A/B 类论文；该条件只限制本组 reference。区分“仅核实书目”与“已有方法笔记”，并区分会议论文和期刊扩展版。
+
+只读取相关笔记：[图算法示例](references/graph-algorithm-references-CN.md)（[英文](references/graph-algorithm-references-EN.md)）涵盖最大团／k-plex、半外存 core、span reachability 和动态连通性；[补充方法笔记](references/additional-graph-methods-CN.md)（[英文](references/additional-graph-methods-EN.md)）涵盖缺陷团、边连通度层级、社区搜索、最密子图、独立集、结构聚类、GED 和时间 core 枚举。借鉴最终方法示例，不能套用其前提；仅有书目记录不能支持正式问题定义或算法细节。
 
 ## 阅读与取证
 
@@ -76,7 +78,7 @@ description: 分析数据库、大数据、图与图论领域的论文 PDF、论
 
 用户明确将论文作为改进本 skill 的代表性材料提供时，从正文中提炼可复用的专业术语、内容分析方式和问题／算法思维方式。记录英文术语、恰当的中文对应及定义，并为可复用经验标注论文版本与原文位置。区分领域层面的指导与单篇论文特定的模型或算法，不把一篇论文的假设推广到整个领域。
 
-阅读指定论文后，再按需要补充精简的参考笔记，从本 skill 中链接并说明适用场景，同时保留英文和中文版本。不大段复制论文，不声称已经学习尚未提供的论文。普通论文分析请求本身不代表用户要求更新 skill。
+阅读来源全文后，再补充精简的方法笔记；来源可以是用户提供的论文，也可以是在用户要求的参考检索中找到的论文。从本 skill 中链接并说明适用场景，同时保留英文和中文版本。不大段复制论文，不声称已经学习未读论文的方法。仅核实书目的条目，在核对全文前必须保留该状态。普通论文分析请求本身不代表用户要求更新 skill。
 
 ## 维护本 skill
 

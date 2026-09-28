@@ -2,9 +2,11 @@
 
 Read the matching example when analyzing cohesive-subgraph search, semi-external graph processing, temporal reachability, or fully dynamic connectivity. These notes complement the [historical graph indexing examples](temporal-graph-indexing-EN.md). The [Chinese companion](graph-algorithm-references-CN.md) contains the same material; loading both is unnecessary.
 
+For the broader collection, use the [screened reference catalog](chang-wen-catalog-EN.md). Nine further source-grounded examples are in the [additional method notes](additional-graph-methods-EN.md); these five examples remain available below.
+
 ## Selection and evidence
 
-Checked on 2026-09-28. Each selected paper has **Lijun Chang or Dong Wen as its first or second author** and belongs to a **CCF A/B conference venue, including B**. All five additions below qualify through an A-class venue. This is a filter for this reference collection, not a restriction on papers the skill can analyze.
+Checked on 2026-09-28. Each selected paper has **Lijun Chang or Dong Wen as its first or second author** and belongs to a **CCF A/B conference venue, including B**. All five examples below qualify through an A-class venue. This is a filter for this reference collection, not a restriction on papers the skill can analyze.
 
 The official [CCF database / data mining / information retrieval category](https://www.ccf.org.cn/Academic_Evaluation/DM_CS/) lists SIGKDD, ICDE, VLDB, and SIGMOD as A-class conferences. PVLDB and PACMMOD entries below qualify through the corresponding VLDB and SIGMOD research tracks; this does not assert that either publication is separately listed as an A-class journal. Author order comes from the linked paper's first page. Publication years and conference cycles are kept separate.
 

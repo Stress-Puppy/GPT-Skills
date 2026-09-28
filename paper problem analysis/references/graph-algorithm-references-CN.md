@@ -2,9 +2,11 @@
 
 分析凝聚子图搜索、半外存图处理、时间可达性或全动态图连通性时，按需阅读对应示例。本文补充已有的[历史图索引示例](temporal-graph-indexing-CN.md)。[英文版](graph-algorithm-references-EN.md)包含相同内容，无需同时加载两版。
 
+更多论文见[筛选后的参考目录](chang-wen-catalog-CN.md)。[补充方法笔记](additional-graph-methods-CN.md)另含九篇对照正文整理的示例；以下保留原有五篇示例。
+
 ## 筛选条件与证据
 
-核验日期：2026-09-28。每篇论文均满足：**Lijun Chang 或 Dong Wen 中至少一人为第一或第二作者**，且属于 **CCF A/B 类会议，包含 B 类**。本次新增的五篇均通过 A 类会议入选。这是本组 reference 的筛选条件，不限制 skill 可以分析的论文。
+核验日期：2026-09-28。每篇论文均满足：**Lijun Chang 或 Dong Wen 中至少一人为第一或第二作者**，且属于 **CCF A/B 类会议，包含 B 类**。以下五篇示例均通过 A 类会议入选。这是本组 reference 的筛选条件，不限制 skill 可以分析的论文。
 
 [CCF 官方“数据库／数据挖掘／内容检索”目录](https://www.ccf.org.cn/Academic_Evaluation/DM_CS/)将 SIGKDD、ICDE、VLDB、SIGMOD 列为 A 类会议。下表中的 PVLDB、PACMMOD 论文按对应的 VLDB、SIGMOD 研究论文轨道归类；不据此宣称这两种出版物单独属于 CCF A 类期刊。作者顺序以链接论文首页为准，区分正式发表年份与会议年度。
 

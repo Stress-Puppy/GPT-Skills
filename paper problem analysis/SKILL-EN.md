@@ -19,7 +19,9 @@ For temporal graphs, establish snapshot and path semantics before explaining the
 
 For temporal graph indexing, historical k-core queries, or historical connectivity, consult [the representative-paper notes](references/temporal-graph-indexing-EN.md) ([Chinese](references/temporal-graph-indexing-CN.md)). They contain source-grounded terminology, final-algorithm examples, and pitfalls from the supplied 2021 PVLDB and 2024 SIGMOD papers; they are not universal assumptions for all graph papers.
 
-For maximum clique/k-plex search, semi-external core decomposition, span-reachability labels, or fully dynamic connectivity, consult [the graph algorithm references](references/graph-algorithm-references-EN.md) ([Chinese](references/graph-algorithm-references-CN.md)). These five papers have Lijun Chang or Dong Wen as first or second author and were selected from CCF A/B venues. Use their final-method examples and reading questions without importing their assumptions into other papers; the author/venue filter applies only to this collection.
+For additional examples, consult the topic-organized [Chang/Wen reference catalog](references/chang-wen-catalog-EN.md) ([Chinese](references/chang-wen-catalog-CN.md)). It covers papers with Lijun Chang or Dong Wen as first or second author in CCF A/B venues; this filter applies only to the reference collection. Keep bibliography-checked entries distinct from papers with method notes, and distinguish conference papers from journal extensions.
+
+Read only the relevant notes: [graph algorithm examples](references/graph-algorithm-references-EN.md) ([Chinese](references/graph-algorithm-references-CN.md)) for maximum clique/k-plex, semi-external cores, span reachability, and dynamic connectivity; [additional method notes](references/additional-graph-methods-EN.md) ([Chinese](references/additional-graph-methods-CN.md)) for defective cliques, edge-connectivity hierarchies, community search, densest subgraphs, independent sets, structural clustering, GED, and temporal core enumeration. Use their final-method examples without importing their assumptions into other papers. A bibliography entry alone is not evidence for a formal problem definition or algorithm.
 
 ## Reading and evidence
 
@@ -76,7 +78,7 @@ Prioritize the problem, inputs, and outputs; keep the method explanation concise
 
 When the user explicitly supplies papers as representative material for improving this skill, read them for reusable technical terminology, explanation patterns, and ways of reasoning about problems and algorithms. Record English terms with appropriate Chinese equivalents and definitions, and connect each reusable lesson to a paper version and source location. Separate domain-level guidance from a paper's particular model or algorithm; do not generalize one paper's assumptions to the entire field.
 
-Add focused reference notes only after reading the supplied papers, link them from this skill with a clear indication of when to consult them, and maintain English and Chinese counterparts. Do not copy large paper passages or claim to have learned from papers not yet supplied. An ordinary request to analyze a paper does not by itself request a skill update.
+Add focused method notes only after reading the source texts, whether supplied by the user or found during a user-requested reference search. Link them from this skill with a clear indication of when to consult them, and maintain English and Chinese counterparts. Do not copy large paper passages or claim to have learned methods from papers not read. Bibliography-only entries must retain that status until their full texts have been checked. An ordinary request to analyze a paper does not by itself request a skill update.
 
 ## Maintaining this skill
 
